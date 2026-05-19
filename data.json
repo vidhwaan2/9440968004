@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "firstName": "M",
+  "lastName": "SANJEEVA",
+  "phone": "9440968004",
+  "instrument": "Dolu",
+  "location": {
+    "state": "telangana",
+    "district": "hyderabad",
+    "subdistrict": "shaikpet",
+    "village": "shaikpet-shaikpet-hyderabad-telangana-500104"
+  },
+  "gallery": [],
+  "videos": [],
+  "village": "shaikpet-shaikpet-hyderabad-telangana-500104",
+  "about": ""
+}
